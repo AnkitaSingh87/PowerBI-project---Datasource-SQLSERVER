@@ -18,7 +18,10 @@ Performance View
 
 Housing Type Analysis
 
+---
+
 📊 **Key Performance Indicators (KPIs)**
+
 The dashboard highlights the following KPIs to measure housing market performance:-
 
 Year-over-Year Growth Rate – Tracks Sales trends over time
