@@ -1,9 +1,9 @@
-🏠 **Housing Data Dashboard**
+🏠 ***Housing Data Dashboard***
 
-📌 Overview
+📌 **Overview
 This repository contains an interactive dashboard designed to analyze housing data. The dashboard provides insights into overall trends, performance metrics, and housing type distributions, enabling better understanding of the housing market.
 
-🚀 Features
+🚀 **Features**
 
 Overview Page
    High-level summary of housing dataset
@@ -16,13 +16,17 @@ Performance View
 
 Housing Type Analysis
 
-📊 Key Performance Indicators (KPIs)
+📊 **Key Performance Indicators (KPIs)**
 The dashboard highlights the following KPIs to measure housing market performance:-
 
 Year-over-Year Growth Rate – Tracks Sales trends over time
+
 Median Housing Price – Provides a central tendency measure, less affected by outliers
+
 Price per Square Foot – Evaluates cost efficiency of properties
+
 Total Number of Unit Sold – Summary of Unit Sold
+
 Average Days on Market – Measures how quickly properties are sold
 Sales Volume – Total value of properties sold within a period
 Analayze offer price - Brief about the offer price in particular area and city 
