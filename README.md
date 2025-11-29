@@ -11,10 +11,12 @@ Overview Page
    High-level summary of housing dataset
    Key statistics and KPIs for quick insights
 
+
 Performance View
    Detailed performance metrics
    Trend analysis over time
    Comparative charts to evaluate growth and decline
+
 
 Housing Type Analysis
 
