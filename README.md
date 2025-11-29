@@ -27,6 +27,4 @@ Price per Square Foot – Evaluates cost efficiency of properties
 
 Total Number of Unit Sold – Summary of Unit Sold
 
-Average Days on Market – Measures how quickly properties are sold
-Sales Volume – Total value of properties sold within a period
 Analayze offer price - Brief about the offer price in particular area and city 
