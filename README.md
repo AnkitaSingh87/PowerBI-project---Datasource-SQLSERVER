@@ -1,4 +1,5 @@
-Housing Data Dashboard
+**Housing Data Dashboard**
+
 📌 Overview
 This project provides an interactive dashboard built to analyze housing data. The dashboard is designed to give insights into overall trends, performance metrics, and housing type distributions, making it easier to understand the housing market at a glance.
 
