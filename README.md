@@ -1,4 +1,4 @@
-🏠 #Housing Data Dashboard
+##Housing Data Dashboard
 
 📌 **Overview
 This repository contains an interactive dashboard designed to analyze housing data. The dashboard provides insights into overall trends, performance metrics, and housing type distributions, enabling better understanding of the housing market.
