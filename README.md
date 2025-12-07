@@ -9,18 +9,25 @@ This repository contains an interactive dashboard designed to analyze housing da
 🚀 **Features**
 
 1-Overview Page
+
    High-level summary of housing dataset ,key statistics and KPIs for quick insights.
    
    <img width="929" height="485" alt="Screenshot 2025-11-29 231710" src="https://github.com/user-attachments/assets/778af86b-eb3f-4b75-bd8e-e14f15f7a5be" />
 
 
+
 2-Performance View
+
    Detailed performance metrics and trend analysis over time with comparative charts to evaluate growth and decline
 
    <img width="868" height="480" alt="Screenshot 2025-12-07 183928" src="https://github.com/user-attachments/assets/fc0af215-ae68-4c0d-9c70-e5225b02ee4e" />
  
 
+
 3-Housing Type Analysis
+
+   <img width="859" height="478" alt="Screenshot 2025-12-07 184128" src="https://github.com/user-attachments/assets/b6367052-4fd2-4303-be2a-3d07ac16fbea" />
+
 
 ---
 
