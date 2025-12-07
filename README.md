@@ -16,12 +16,16 @@ This repository contains an interactive dashboard designed to analyze housing da
 
 
 
+
+
 2-Performance View
 
    Detailed performance metrics and trend analysis over time with comparative charts to evaluate growth and decline
 
    <img width="868" height="480" alt="Screenshot 2025-12-07 183928" src="https://github.com/user-attachments/assets/fc0af215-ae68-4c0d-9c70-e5225b02ee4e" />
  
+
+
 
 
 3-Housing Type Analysis
